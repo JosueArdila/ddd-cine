@@ -4,6 +4,7 @@ import co.com.sofka.business.generic.ServiceBuilder;
 import co.com.sofka.business.generic.UseCaseHandler;
 import co.com.sofka.business.support.TriggeredEvent;
 import co.com.sofka.cartelera.events.PeliculaDeCarteleraEliminada;
+import co.com.sofka.cartelera.usecases.services.EnviarMensajeTextoService;
 import co.com.sofka.pelicula.identities.PeliculaId;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

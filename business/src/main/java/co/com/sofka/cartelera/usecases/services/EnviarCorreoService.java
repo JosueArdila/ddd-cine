@@ -1,4 +1,4 @@
-package co.com.sofka.cartelera.usecases;
+package co.com.sofka.cartelera.usecases.services;
 
 import co.com.sofka.cartelera.values.Correo;
 

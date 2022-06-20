@@ -4,6 +4,7 @@ import co.com.sofka.business.generic.UseCase;
 import co.com.sofka.business.support.ResponseEvents;
 import co.com.sofka.business.support.TriggeredEvent;
 import co.com.sofka.cartelera.events.ContrasenaDeAdministradorCambiada;
+import co.com.sofka.cartelera.usecases.services.EnviarCorreoService;
 
 import java.util.List;
 

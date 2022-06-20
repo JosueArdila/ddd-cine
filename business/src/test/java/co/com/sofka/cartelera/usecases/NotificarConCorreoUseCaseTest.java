@@ -4,6 +4,7 @@ import co.com.sofka.business.generic.ServiceBuilder;
 import co.com.sofka.business.generic.UseCaseHandler;
 import co.com.sofka.business.support.TriggeredEvent;
 import co.com.sofka.cartelera.events.ContrasenaDeAdministradorCambiada;
+import co.com.sofka.cartelera.usecases.services.EnviarCorreoService;
 import co.com.sofka.cartelera.values.Contrasena;
 import co.com.sofka.cartelera.values.Correo;
 import org.junit.jupiter.api.Assertions;
